@@ -11,7 +11,6 @@
 - **Pattern Recognition**: Research and application
 
 ## GitHub Statistics
-!Apollyion's GitHub stats
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Apollyion)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Connect with Me
