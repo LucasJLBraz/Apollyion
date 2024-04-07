@@ -1,8 +1,20 @@
-- Hi, I’m @Apollyion, aka, Lucas Braz, and i'm currently graduating in Computer Engineering on Federal University of Ceará  (UFC)
-- My current interests involve Data Analysis and Language Processing. Although I'm still delving into these topics.
-- You can reach me via my [LinkedIn](https://www.linkedin.com/in/lucas-jos%C3%A9-l-braz-84747aa4/)!
+# Hello, I'm Lucas Braz aka @Apollyion 👋
 
-<!---
-Apollyion/Apollyion is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## About Me
+🎓 I'm currently pursuing a degree in Computer Engineering at the Federal University of Ceará (UFC).
+🔍 My main research interests are Data Analysis and Pattern Recognition, with a focus on Sociodemographic data.
+
+## Technologies & Tools
+- **Python**: Advanced
+- **Real-Time Programming**: Experienced with ESP32
+- **Embedded Machine Learning**: Practical knowledge
+- **Pattern Recognition**: Research and application
+
+## GitHub Statistics
+!Apollyion's GitHub stats
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Apollyion)](https://github.com/anuraghazra/github-readme-stats)
+
+## Connect with Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/lucas-jlb/)
+
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lucas.jlb19@alu.ufc.br)
