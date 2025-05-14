@@ -1,4 +1,4 @@
-# 👋 Hello, I'm Lucas Braz (aka @Apollyion)  
+# 👋 Hello, I'm Lucas Braz
 
 ## 🚀 About Me  
 🎓 **B.Sc. in Computer Engineering** – Federal University of Ceará (UFC)  
@@ -15,4 +15,4 @@
 ## 📬 Connect with Me  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/lucas-jlb/)  
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lucas.jlb19@alu.ufc.br)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=github&logoColor=white)](https://apollyion.github.io)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=github&logoColor=white)](https://LucasJLBraz.github.io)  
